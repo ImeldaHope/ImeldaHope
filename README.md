@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ImeldaHope</h1>
-<h3 align="center">an experienced full-stack developer with a passion for coding and problem-solving. I find joy in crafting elegant solutions to complex challenges and am particularly exhilarated by the process of debugging. There's an indescribable thrill that comes with identifying and resolving bugs – it's like solving a puzzle and witnessing a seamless system emerge from the chaos.</h3>
+<h3 align="center">I am an experienced full-stack developer with a passion for coding and problem-solving. I find joy in crafting elegant solutions to complex challenges and am particularly exhilarated by the process of debugging. There's an indescribable thrill that comes with identifying and resolving bugs – it's like solving a puzzle and witnessing a seamless system emerge from the chaos.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imeldahope" alt="imeldahope" /></a> </p>
@@ -9,7 +9,7 @@
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 🐛💡😄**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> LinkedIn: https://www.linkedin.com/in/imelda-nasimiyu/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
